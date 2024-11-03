@@ -9,7 +9,7 @@ const config: Config = {
   ],
   theme: {
     daisyui: {
-      themes: ["light", "dark"],
+      themes: ["light"],
     },
     extend: {
       colors: {
